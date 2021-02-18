@@ -8,7 +8,7 @@
 
 ## The assignment
 
-![endresult](endresult.png)
+![assignment](assignment.png)
 
 Open the lined cube file
 
@@ -19,7 +19,7 @@ Open the lined cube file
 
 Tip: Too hard to hover over the cube? Place something transparent in the background
 
-![assignment](assignment.png)
+![endresult](endresult.png)
 
 ## Submitting your work
 Create a new branch called **gh-pages** and upload your local work into this branch. Submit a new **pull request** and make sure to put the (working) **GitHub Pages URL** in the comment section. 
